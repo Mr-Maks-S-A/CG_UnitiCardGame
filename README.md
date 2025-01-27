@@ -1,2 +1,2 @@
-# -G_UnitiCardGame
+# СG_UnitiCardGame
 CardGame_UnitiCardDataBase
